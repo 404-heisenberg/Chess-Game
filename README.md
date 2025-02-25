@@ -54,5 +54,5 @@ Here are some screenshots of the game in action:
 ![Pawn Promotion](images/promotion.png)
 
 ### Checkmate State
-![Checkmat](images/checkmate.png)
+![Checkmate](images/checkmate.png)
 
