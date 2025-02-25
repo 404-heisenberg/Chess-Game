@@ -33,3 +33,26 @@ Chess-Game is a Java-based chess game application with a graphical user interfac
     java -jar chess-game-1.0.jar
 2. The chessboard will be displayed. Players can click on pieces to see their legal moves and make moves by clicking on the destination square.
 3. Use the "Reset" option in the "Game" menu to start a new game.
+
+## Screenshots
+Here are some screenshots of the game in action:
+
+### Initial Game State
+![Game Start](images/game%20start.png)
+
+### Highlighting Legal Moves
+![Highlighting Legal Moves](images/move%20highlight.png)
+
+### Castling
+![Castling](images/castling.png)
+
+### Check State
+![Check](images/check.png)
+
+### Pawn Promotion
+
+![Pawn Promotion](images/promotion.png)
+
+### Checkmate State
+![Checkmat](images/checkmate.png)
+
