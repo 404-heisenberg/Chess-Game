@@ -12,7 +12,7 @@ Chess-Game is a Java-based chess game application with a graphical user interfac
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Chess-Game.git
+    git clone https://github.com/404-heisenberg/Chess-Game.git
     ```
 2. Navigate to the project directory:
     ```sh
