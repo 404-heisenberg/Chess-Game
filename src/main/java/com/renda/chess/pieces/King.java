@@ -24,7 +24,7 @@ public class King extends Piece {
         for (int row = 0; row < 8; row++){
             for (int col = 0; col < 8; col++){
                 Piece piece = board[row][col];
-                if (piece != null && piece.getColour() != this.colour){
+                if (piece != null && piece.getColour() != this.colour && !(piece instance of King)){
                     ArrayList<Position> legalMoves = piece.getLegalMoveList(board);
                     if (legalMoves != null && legalMoves.contains(position)) return true;
                 }
